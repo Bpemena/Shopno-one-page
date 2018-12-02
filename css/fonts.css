@@ -1,0 +1,36 @@
+@font-face{
+	font-family: 'Montserrat-Bold';
+	src: url('../fonts/Montserrat-Bold/Montserrat-Bold.ttf');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face{
+	font-family: 'Montserrat-Regular';
+	src: url('../fonts/Montserrat-Regular/Montserrat-Regular.ttf');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face{
+	font-family: 'Raleway-Regular';
+	src: url('../fonts/Raleway-Regular/Raleway-Regular.ttf');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'Raleway-Medium';
+	src: url('../fonts/Raleway-Medium/Raleway-Medium.ttf');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'Merriweather-Bold';
+	src: url('../fonts/Merriweather-Bold/Merriweather-Bold.ttf');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'Merriweather-Regular';
+	src: url('../fonts/Merriweather-Regular/Merriweather-Regular.ttf');
+	font-style: normal;
+	font-weight: normal;
+}
